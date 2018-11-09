@@ -47,6 +47,7 @@
 	</resources>
   </build>
   <distributionManagement>
+  <repositories>
     <repository>
         <id>localdeploy</id>
         <name>Corporate Releases</name>
@@ -57,5 +58,6 @@
         <name>Central Repository</name>
         <url>file:\\\\C:\Users\PRANAV123\Maven\devops\11718</url>
     </repository>
+   </repositories>
   </distributionManagement>
 </project>
